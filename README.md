@@ -4,7 +4,7 @@ PPG(광용적맥파, Photoplethysmography) 신호만으로 부정맥을 탐지·
 
 이 저장소는 MDPI **Sensors**(SCIE)에 게재된 논문의 공식 구현체입니다.
 
-📄 **논문**: [MDPI Sensors 2026, 26, 2316](https://www.mdpi.com/1424-8220/26/8/2316)
+📄 **논문**: [MDPI Sensors - Paper](https://www.mdpi.com/1424-8220/26/8/2316)
 📊 **데이터셋**: [Kaggle - PPG Arrhythmia Dataset](https://www.kaggle.com/datasets/minhwannoh/ppg-arrhythmia-dataset)
 
 ---
@@ -13,7 +13,7 @@ PPG(광용적맥파, Photoplethysmography) 신호만으로 부정맥을 탐지·
 
 - 동국대학교 졸업작품(종합설계) **A+**
 - **한국저작권위원회 소프트웨어 등록**
-- MDPI **Sensors**(SCIE) 공동 제1저자(Co-first author) 논문 게재
+- **MDPI Sensors**(SCIE) 논문 게재
 
 ---
 
@@ -44,8 +44,8 @@ PPG(광용적맥파, Photoplethysmography) 신호만으로 부정맥을 탐지·
 
 | 이름 | 역할 |
 |---|---|
-| **허영호**(공동 제1저자) | Methodology, Software, Validation, Formal Analysis, Investigation, Data Curation, Writing, Visualization |
-| **노민환**(공동 제1저자) | Methodology, Software, Validation, Formal Analysis, Investigation, Data Curation, Writing, Visualization |
+| **허영호**(공동1저자) | Methodology, Software, Validation, Formal Analysis, Investigation, Data Curation, Writing, Visualization |
+| **노민환**(공동1저자) | Methodology, Software, Validation, Formal Analysis, Investigation, Data Curation, Writing, Visualization |
 | 지동우 | Methodology, Validation, Investigation, Writing |
 | 오유나 | Methodology, Investigation, Writing |
 
