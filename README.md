@@ -44,8 +44,8 @@ PPG(광용적맥파, Photoplethysmography) 신호만으로 부정맥을 탐지·
 
 | 이름 | 역할 |
 |---|---|
-| **허영호** 🥇 (공동 제1저자) | Methodology, Software, Validation, Formal Analysis, Investigation, Data Curation, Writing, Visualization |
-| **노민환** 🥇 (공동 제1저자) | Methodology, Software, Validation, Formal Analysis, Investigation, Data Curation, Writing, Visualization |
+| **허영호**(공동 제1저자) | Methodology, Software, Validation, Formal Analysis, Investigation, Data Curation, Writing, Visualization |
+| **노민환**(공동 제1저자) | Methodology, Software, Validation, Formal Analysis, Investigation, Data Curation, Writing, Visualization |
 | 지동우 | Methodology, Validation, Investigation, Writing |
 | 오유나 | Methodology, Investigation, Writing |
 
