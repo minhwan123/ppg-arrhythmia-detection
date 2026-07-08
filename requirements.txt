@@ -1,0 +1,17 @@
+# --- 실행에 필요한 필수 패키지 (app.py 기준) ---
+streamlit==1.32.0
+torch
+numpy
+pandas
+matplotlib
+scipy
+Pillow
+google-generativeai
+python-dotenv
+
+# --- 학습 스크립트 재현용 (선택, Contrastive_Learning.py / U_Net.py / Final.py) ---
+scikit-learn
+transformers
+tqdm
+seaborn
+torchvision
