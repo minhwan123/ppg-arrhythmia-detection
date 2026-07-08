@@ -42,14 +42,12 @@ PPG(광용적맥파, Photoplethysmography) 신호만으로 부정맥을 탐지·
 
 ## 역할
 
-허영호와 노민환이 **공동 제1저자(Equal Contribution)**로 프로젝트를 주도했습니다. 아래는 논문 Author Contributions 기준입니다.
-
 | 이름 | 역할 |
 |---|---|
 | **허영호** 🥇 (공동 제1저자) | Methodology, Software, Validation, Formal Analysis, Investigation, Data Curation, Writing, Visualization |
 | **노민환** 🥇 (공동 제1저자) | Methodology, Software, Validation, Formal Analysis, Investigation, Data Curation, Writing, Visualization |
-| 지동우 | Methodology, Validation, Investigation, Writing (Original Draft) |
-| 오유나 | Methodology, Investigation, Writing (Original Draft) |
+| 지동우 | Methodology, Validation, Investigation, Writing |
+| 오유나 | Methodology, Investigation, Writing |
 
 ---
 
